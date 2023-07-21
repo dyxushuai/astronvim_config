@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.color.vim-highlighter" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
